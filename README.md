@@ -1,2 +1,2 @@
-# pokedex
- Pokedex feita em JavaScript
+# Pokedex
+ Pokedex feita em JavaScript. Consumindo a API PokeAPIv2
